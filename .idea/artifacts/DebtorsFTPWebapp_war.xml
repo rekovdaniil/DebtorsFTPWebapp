@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DebtorsFTPWebapp:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/DebtorsFTPWebapp_war</output-path>
+    <root id="archive" name="DebtorsFTPWebapp_war.war">
+      <element id="artifact" artifact-name="DebtorsFTPWebapp:war exploded" />
+    </root>
+  </artifact>
+</component>

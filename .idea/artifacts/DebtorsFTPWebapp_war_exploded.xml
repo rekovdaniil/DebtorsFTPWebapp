@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DebtorsFTPWebapp:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DebtorsFTPWebapp_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DebtorsFTPWebapp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="commons-fileupload-1.2.2" />
+          <element id="library" level="project" name="commons-io-2.2" />
+          <element id="library" level="project" name="json-20140107" />
+          <element id="library" level="project" name="jackson-core-2.11.1" />
+          <element id="library" level="project" name="jackson-databind-2.11.0" />
+          <element id="library" level="project" name="commons-net-3.7" />
+          <element id="library" level="project" name="jackson-annotations-2.11.1" />
+          <element id="library" level="project" name="httpcore5-5.0.1" />
+          <element id="library" level="project" name="httpclient5-5.0.1" />
+          <element id="library" level="project" name="httpclient5-win-5.0.1" />
+          <element id="library" level="project" name="slf4j-api-1.7.25" />
+          <element id="library" level="project" name="slf4j-simple-1.7.25" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="DebtorsFTPWebapp/web/Web" />
+    </root>
+  </artifact>
+</component>
